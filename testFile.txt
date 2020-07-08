@@ -1,2 +1,0 @@
-First line on branch master
-First line, conflict-tutorial branch
